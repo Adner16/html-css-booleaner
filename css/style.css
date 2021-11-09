@@ -1,0 +1,29 @@
+
+header {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color: rgba(78,160,255,255);
+    background:
+}
+figure{
+    margin: 0 auto;
+}
+#logo{
+    height: 50px;
+    margin-top: 40px;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.blue{
+    color:rgba(88,190,235,255)
+    ;
+}
+address{
+    color: gray;
+    font-style: normal;
+}
+#tim-images{
+    margin-top: 30px;
+}
