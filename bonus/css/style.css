@@ -1,0 +1,102 @@
+
+/* general */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* utilities */
+
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+
+
+/* intestazione */
+
+header {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    line-height: 100px;
+    background-color: rgba(78,160,255,255);
+    background-size: 35%;
+}
+
+#logo{
+    height: 50px;
+    vertical-align: middle;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.blue{
+    color:rgba(88,190,235,255)
+    ;
+}
+address{
+    color: gray;
+    font-style: normal;
+}
+
+
+/* contenuto pagina */
+
+figure{
+    margin: 0 auto;
+}
+#tim-images{
+    margin-top: 30px;
+}
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+ul{
+    padding-left: 20px;
+}
+/* table */
+
+table{
+    margin-top: 30px;
+    margin-bottom: 30px;;
+}
+
+.first-row{
+    background-color: rgb(84, 189, 250);
+    color: white;
+    
+}
+.second-row{
+    background-color: lightblue;
+}
+.last-row{
+    background-color: lightblue;
+}
+.third-column{
+    width: 50%;
+}
+
+/* aside */
+
+.img1{
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+}
+.img2{
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+}
+
+#aside-title{
+    color: lightgrey;
+    margin-left: 10px;
+    margin-top: 10px;
+}
